@@ -1,4 +1,3 @@
-require "pry"
 def line(katz_deli)
   if katz_deli.empty?
   puts "The line is currently empty." 
@@ -25,5 +24,5 @@ def now_serving(katz_deli)
   if katz_deli.empty?
     puts "There is nobody waiting to be served!"
   else
-    
+    katz_del.length <= 
 
